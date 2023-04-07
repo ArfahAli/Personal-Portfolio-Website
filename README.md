@@ -1,2 +1,2 @@
 # Personal-Portfolio-Website
-LAB Assignment 1
+Personal Portfolio Website using HTML and CSS
