@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+<link rel="stylesheet" href="styling.css">
+
+<body>
+    </main>
+    <header>
+        <div class="head">
+            <img class="profile" src="pic1.jpg" alt="" width="100px" height="100px">
+            <div class="innerhead">
+                <h2>Arfah Ali</h2>
+                <p>Content Writer</p>
+            </div>
+        </div>
+
+        <nav class="menu">
+            <ul class="list1">
+                <li><a href="main.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="about">
+        <div class="big-card">
+            <img class="aboutpic" src="pic1.jpg" alt="">
+            <div class="text">
+                <h2 class="intro3">Hey There,</h2>
+                <h2 class="intro4">I'm Arfah, An Expert in Writing and Designing</h2>
+                <p class="para5">
+                    I am a Content Writer and Copywriter with several skills including social media designing, poster
+                    designs, brouchers designs. I can also help you with proofreading and editing of your articles,
+                    blogs, essays, and all types of content to ace them. I can also make eye-catching and impressive
+                    designs to boost your digital business and blogs.
+                </p><br><br>
+
+                <a href="contact.html"><button class="btn2">Contact me</button></a>
+            </div>
+            <div class="last-card">
+
+            </div>
+
+        </div>
+
+        <div class="rec">
+            <div class="cap">
+                <h2>Projects</h2>
+                <h3>Some Statistics about Projects</h3>
+            </div>
+        </div>
+
+        <div class="square">
+            <div class="block">
+                <div>
+                    <h2>90+</h2>
+                    <h3>Blogs</h3>
+                </div>
+            </div>
+
+            <div class="block">
+                <div>
+                    <h2>80</h2>
+                    <h3>Articles</h3>
+                </div>
+             
+            </div>
+
+            <div class="block">
+                <div>
+                    <h2>6</h2>
+                    <h3>E-Books</h3>
+                </div>
+             
+            </div>
+
+            <div class="block">
+                <div>
+                    <h2>70+</h2>
+                    <h3>Emails</h3>
+                </div>
+             
+            </div>
+            
+        </div>
+        <div class="square2">
+            <div class="block">
+                <div>
+                    <h2>22</h2>
+                    <h3>Landing Pages</h3>
+                </div>
+            </div>
+
+            <div class="block">
+                <div>
+                    <h2>18</h2>
+                    <h3>Case Studies</h3>
+                </div>
+             
+            </div>
+
+            <div class="block">
+                <div>
+                    <h2>13+</h2>
+                    <h3>Video Scripts</h3>
+                </div>
+             
+            </div>
+
+            <div class="block">
+                <div>
+                    <h2>50</h2>
+                    <h3>White Papers</h3>
+                </div>
+             
+            </div>
+            
+        </div>
+
+        
+
+
+    </section>
+
+    <!-- This is About Section -->
+
+    <footer>
+        <div class="privacy">
+            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by
+                <a href="redo.html">Arfah Ali</a>.
+            </p>
+        </div>
+
+    </footer>
+
+
+</body>
+
+</html>
