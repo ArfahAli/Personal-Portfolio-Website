@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styling.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+
+    <title>Document</title>
+</head>
+
+<style>
+
+</style>
+
+<body>
+    <header>
+        <div class="head">
+            <img class="profile" src="pic1.jpg" alt="" width="100px" height="100px">
+            <div class="innerhead">
+                <h2>Arfah Ali</h2>
+                <p>Content Writer</p>
+            </div>
+        </div>
+
+        <nav class="menu">
+            <ul class="list1">
+                <li><a href="main.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="Home">
+        <h2 class="intro1">Hey There,</h2>
+        <h2 class="intro2">I am Arfah Ali</h2>
+        <p class="para1">(Your new and long-term content creator)</p>
+        <h3>Want to convert your brand's visitors into leads?</h3>
+        <p class="para2">Let's work together to create something extremely INCREDIBLE</p>
+        <a href="contact.html"><button class="btn">Hire me</button></a>
+
+        <div class="socialMedia">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-pinterest"></a>
+            <a href="https://www.linkedin.com/in/arfah-ali/" class="fab fa-linkedin"></a>
+            <a href="#" class="fab fa-twitter"></a>
+
+        </div>
+    </section>
+
+    <!-- projects -->
+
+    <section>
+        <div class="projects">
+
+            <div>
+                <h1>100+</h1>
+                <h1>Happy Clients</h1>
+            </div>
+            <div>
+                <h1>2500+ </h1>
+                <h1> Projects Done</h1>
+            </div>
+            <div>
+                <h1>1000+ </h1>
+                <h1> Content Created</h1>
+            </div>
+
+
+        </div>
+    </section>
+
+
+    <!-- testimonials -->
+
+    <section>
+        </div>
+
+        <div class="big-container">
+
+            <div class="box">
+                <img src="test6 (1).jpg" alt="">
+                <div class="details">
+
+                    <h3>Alisha Saqib</h3>
+                    <p>We have worked with Arfah on multiple projects. She is a professional within her field. She has
+                        always delivered the projects on time. I can highly recommend Arfah!</p>
+
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="test6 (2).jpg" alt="">
+                <div class="details">
+
+                    <h3>Hassan Khan</h3>
+                    <p>
+                        I haven't had any issues with the content. Plus, she delivers content before the deadline. I
+                        wish her the best of luck in her future endeavors.
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="test6 (3).jpg" alt="">
+                <div class="details">
+
+                    <h3>Ben Zoc</h3>
+                    <p>Arfah, is a highly experienced and talented Content Writer. She helped me in writing Affiliate
+                        Articles that are focused on sales, simplicity, and engagement.
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="big-box2">
+
+                <div class="box">
+                    <img src="test6 (4).jpg" alt="">
+                    <div class="details">
+
+                        <h3>Elizabeth Jan</h3>
+                        <p>Arfah is very hardworking, understanding, cooperative and fine liner! Definitely a person to
+                            be working with me in future projects.
+
+                        </p>
+
+                    </div>
+                </div>
+
+                <div class="box">
+                    <img src="test6 (5).jpg" alt="">
+                    <div class="details">
+
+                        <h3>Sofia Jardun</h3>
+                        <p>I have worked with so many content writers in the past few months, and Aleena was one of the
+                            best ones. </p>
+
+                    </div>
+                </div>
+
+                <div class="box">
+                    <img src="test6 (6).jpg" alt="">
+                    <div class="details">
+
+                        <h3>James smith</h3>
+                        <p>She is very cooperative and hardworking, I have worked on multiple projects with her and she
+                            did very accurately. </p>
+
+                    </div>
+                </div>
+    </section>
+
+    <footer class="myfooter">
+        <div class="privacy">
+            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by
+                <a href="redo.html">Arfah Ali</a>.
+            </p>
+        </div>
+
+    </footer>
+
+</body>
+
+</html>
