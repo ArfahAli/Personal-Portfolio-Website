@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+<link rel="stylesheet" href="styling.css">
+<style>
+
+</style>
+
+<body>
+    <!-- This is Services Section -->
+    <header class="header1">
+        <div class="head">
+            <img class="profile" src="pic1.jpg" alt="" width="100px" height="100px">
+            <div class="innerhead">
+                <h2>Arfah Ali</h2>
+                <p>Content Writer</p>
+            </div>
+        </div>
+
+        <nav class="menu">
+            <ul class="list1">
+                <li><a href="main.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="contact.html">Contact me</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+
+    <section class="services">
+
+        <div class="back">
+
+
+            <img src="back.webp" alt="">
+            <div class="exclusive">
+                <h1>Exclusive Services</h1>
+                <p>Over the years, I have been lucky to work with so many wonderful clients by providing a variety of
+                    services to fit their needs. To learn more about what I have to offer, take a look at my services
+                    below.</p>
+
+            </div>
+        </div>
+
+        <div class="big-box">
+
+            <div class="box">
+                <img src="contentwriting.webp" alt="">
+                <div class="details">
+
+                    <h3>Copywriting</h3>
+                    <p>I have put together a carefully curated selection of my latest and most influential pieces. Read
+                        through the samples and feel free to get in touch to learn more about me and to discuss any
+                        projects you may want to send my way.</p>
+
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="copywiting.webp" alt="">
+                <div class="details">
+
+                    <h3>Content Writing</h3>
+                    <p>I am very proud of every project that I have created. Each one has a prominent role in their
+                        career and has been enjoyed by fans of all ages and backgrounds. Click on this to Browse through
+                        the list of titles to check out some of my samples.</p>
+
+                </div>
+            </div>
+
+            <div class="box">
+                <img src="editing.webp" alt="">
+                <div class="details">
+
+                    <h3>Proofreading & Editing</h3>
+                    <p>I have significant experience with the unique work demands and culture of being a modern Editor;
+                        from understanding the creative vision of a writer to collaborating on corrections and content
+                        changes throughout the editing process.
+
+                    </p>
+
+                </div>
+            </div>
+
+            <div class="big-box2">
+
+                <div class="box">
+                    <img src="socialdesigns.webp" alt="">
+                    <div class="details">
+
+                        <h3>Social Media Designing</h3>
+                        <p>As professionals in my field, I provide professional, creative, and results-driven strategies
+                            to help your business to grow. See the full range of solutions in samples, and get in touch
+                            to find out how I can help.
+                            You can see my samples here to get an idea.
+
+                        </p>
+
+                    </div>
+                </div>
+
+                <div class="box">
+                    <img src="linked.webp" alt="">
+                    <div class="details">
+
+                        <h3>LinkedIn branding</h3>
+                        <p>I am a LinkedIn creator and have worked with multiple brands and people in helping them
+                            optimize their profiles and content creation. Besides this, I have gathered 50+ leads for
+                            myself in a year with content creation. </p>
+
+                    </div>
+                </div>
+
+                <div class="box">
+                    <img src="Posters.webp" alt="">
+                    <div class="details">
+
+                        <h3>Posters designing</h3>
+                        <p>I provide an extensive choice of design services to help turn my clients’ visions into
+                            realities. Get in touch today and discover how I can transform the most abstract concept
+                            into something exceptional. You can see my samples here to get an idea.</p>
+
+                    </div>
+                </div>
+
+    </section>
+
+    <footer class="myfooter2">
+        <div class="privacy">
+            <p class="copyright-text">Copyright &copy; 2017 All Rights Reserved by
+                <a href="redo.html">Arfah Ali</a>.
+            </p>
+        </div>
+
+    </footer>
+
+
+
+</body>
+
+</html>
